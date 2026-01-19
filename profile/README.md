@@ -1,5 +1,6 @@
 # Welcome to Streetrace
-# An Open-Core Enterprise-Ready platform to deploy autonomous AI agents in production
+
+> An Open-Core Enterprise-Ready platform to deploy autonomous AI agents in production
 
 Streetrace enables your engineering teams build and run long-living autonomous agents that drive real metrics, follow your org policies, and don't leak data:
 
@@ -12,4 +13,4 @@ Plus the open-source agent runner that can be deployed on your own infrastructur
 
 ### **Design Partnership Opportunity**
 
-We are selecting **3 Enterprise Design Partners** to shape our V1 Production Release: [Build-With-Us](./offers/build-with-us.md).
+We are selecting **3 Enterprise Design Partners** to shape our V1 Production Release: [Build-With-Us](../offers/build-with-us.md).
