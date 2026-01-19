@@ -1,5 +1,7 @@
 # Early Build-With-Us Partnership
 
+We are selecting **3 Enterprise Design Partners** to shape our V1 Production Release.
+
 A 4-6 week hands-on design partnership. This is a short, focused collaboration, not a sales pitch, not a full deployment, and not a long-term commitment.
 
 We work directly with your team on real back office AI workflows to see where AI actually helps, where guardrails are needed, and which ideas are worth investing into.
